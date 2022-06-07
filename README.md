@@ -86,7 +86,10 @@ When asked to provide an input, enter the answer in the TextField at the bottom 
 </p>
 
 
-## Original Image Credits
+## Credits
+
+The images used in this project have been edited and stylised to lend a futuristic theme.  
+Credits for some of the original images used are provided below:
 - Art Loop GIF by Falcao Lucas
 - Scifi city by Marina Beldiman on ArtStation
 - Rain Cyberpunk Alley by Phoenix Wolf
