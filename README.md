@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/logo.png?raw=true" alt="Ascendance - The Artistic Brain Game"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/logo.png?raw=true" alt="Ascendance - The Artistic Brain Game"/>
 </p>
 
 # Ascendance - The Artistic Brain Game
@@ -27,43 +27,43 @@ When asked to provide an input, enter the answer in the TextField at the bottom 
 ## Screens
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img1.gif?raw=true" alt="Screen 1"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img1.gif?raw=true" alt="Screen 1"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img2.png?raw=true" alt="Screen 2"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img2.png?raw=true" alt="Screen 2"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img3.png?raw=true" alt="Screen 3"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img3.png?raw=true" alt="Screen 3"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img4.png?raw=true" alt="Screen 4"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img4.png?raw=true" alt="Screen 4"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img5.png?raw=true" alt="Screen 5"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img5.png?raw=true" alt="Screen 5"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img6.png?raw=true" alt="Screen 6"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img6.png?raw=true" alt="Screen 6"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img7.png?raw=true" alt="Screen 7"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img7.png?raw=true" alt="Screen 7"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img8.png?raw=true" alt="Screen 8"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img8.png?raw=true" alt="Screen 8"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img9.png?raw=true" alt="Screen 9"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img9.png?raw=true" alt="Screen 9"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/img10.png?raw=true" alt="Screen 10"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/img10.png?raw=true" alt="Screen 10"/>
 </p>
 
 
@@ -72,17 +72,17 @@ When asked to provide an input, enter the answer in the TextField at the bottom 
 ### Cloudflare Pages
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/pages.png?raw=true" alt="Cloudflare Pages"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/pages.png?raw=true" alt="Cloudflare Pages"/>
 </p>
 
 ### Cloudflare Workers, Workers KV
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/pages.png?raw=true" alt="Cloudflare Workers"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/pages.png?raw=true" alt="Cloudflare Workers"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/master/media/pages.png?raw=true" alt="Workers KV"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/pages.png?raw=true" alt="Workers KV"/>
 </p>
 
 
