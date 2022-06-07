@@ -78,11 +78,11 @@ When asked to provide an input, enter the answer in the TextField at the bottom 
 ### Cloudflare Workers, Workers KV
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/main/media/pages.png?raw=true" alt="Cloudflare Workers"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/workers.png?raw=true" alt="Cloudflare Workers"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/animator/ascendance-game/blob/main/media/pages.png?raw=true" alt="Workers KV"/>
+  <img src="https://github.com/animator/ascendance-game/blob/main/media/kv.png?raw=true" alt="Workers KV"/>
 </p>
 
 
